@@ -1,0 +1,1 @@
+Documento para testes de pull e commit no github para treino de versionamentos.
